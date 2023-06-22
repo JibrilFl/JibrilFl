@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/JibrilFl)
-[![Codewars](https://www.shareicon.net/data/32x32/2016/11/01/849405_codewars_512x512.png&logoColor=white)](https://www.codewars.com/users/JibrilFl)
+[![Codewars](https://www.shareicon.net/data/32x32/2016/11/01/849405_codewars_512x512.png)](https://www.codewars.com/users/JibrilFl)
 [![VK](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/27px-VK.com-logo.svg.png)](https://vk.com/jibrilfl)
 
 # 💻 Tech Stack:
