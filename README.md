@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://24.media.tumblr.com/b4ded5e98873eb77da17b062408925bb/tumblr_msu0miicUw1s3wjuno1_500.gif" width="600" height="300"/>
-</div>
-
 # 💫 About Me:
 🌱 Now I'm studying frontend developer
 
